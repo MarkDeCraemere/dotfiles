@@ -6,7 +6,7 @@ My configuration files for Linux
 
 ```bash
 cd ~
-git clone git@github.com:MarkDeCraemere/dotfiles.git
+git clone git@github.com:MarkDeCraemere/dotfiles.git --recursive
 cd dotfiles
 ./install
 ```
